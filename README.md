@@ -7,3 +7,6 @@
 | sublime-text      | https://github.com/xiaobeicn/developer-tools/blob/master/sublime-text.md     |
 | phpstorm-settings | https://github.com/xiaobeicn/developer-tools/blob/master/settings.jar        |
 | vimrc             | https://github.com/xiaobeicn/developer-tools/blob/master/vimrc.vim           |
+| editorconfig      | https://github.com/xiaobeicn/developer-tools/blob/master/.editorconfig       |
+| php_cs            | https://github.com/xiaobeicn/developer-tools/blob/master/.php_cs             |
+
